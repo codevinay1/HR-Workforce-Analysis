@@ -1,7 +1,7 @@
 🚀 Project Objective
 The primary goal of this analysis is to provide the Human Resources department with actionable insights into employee turnover. By identifying which employees are at the highest risk of leaving and understanding the contributing factors, the organization can develop targeted retention strategies, improve employee engagement, and optimize talent management.
 
-![image alt]https://github.com/codevinay1/HR-Workforce-Analysis/blob/1a4f793417609760a842839ab74d9305a9853e1d/dashboard.png
+![image alt](https://github.com/codevinay1/HR-Workforce-Analysis/blob/1a4f793417609760a842839ab74d9305a9853e1d/dashboard.png)
 
 📈 Key Metrics (KPIs)
 The dashboard highlights several top-level key performance indicators:
